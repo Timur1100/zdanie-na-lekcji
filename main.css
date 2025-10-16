@@ -1,0 +1,27 @@
+
+    body {
+      font-family: sans-serif;
+      line-height: 1.6;
+      margin: 2em;
+      background-color: #f8f9fa;
+      color: #202122;
+    }
+    h1, h2 {
+      color: #000;
+    }
+    a {
+      color: #0645ad;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .infobox {
+      float: right;
+      width: 600px;
+      padding: 10px;
+      margin: 0 0 1em 1em;
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+    }
+  
