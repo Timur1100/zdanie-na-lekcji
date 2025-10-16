@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <link rel="stylesheet" href="main.css" >   
+  <title>zadanie</title> 
+</head>
+<body>
+    <HEADER>
+        <div class="infobox">
+    <strong></strong><br>
+    <strong></strong> <br>
+    <strong></strong><br>
+    <strong></strong>
+  </div>
+    <h1>HTML and CSS</h1>
+    </HEADER>
+    <SECTION>
+        <h2>HTML</h2>
+     <ul>
+        <li>Simplicity and accessibility: HTML was created as a simple language that allows for the rapid creation and sharing of documents online. It's easy to learn, making it ideal for beginners.</li>
+        <li>Structure over style: HTML defines what's on a page: headings, paragraphs, images, lists, and links. It provides a framework, but doesn't determine how these elements appear.</li>
+        <li>Foundation for Development: Although more complex technologies exist today, HTML remains the fundamental language. Understanding HTML is essential for learning other languages ​​and frameworks, such as JavaScript and React.</li>   
+    </ul>
+</section>
+<hr>
+<section>
+    <h2>CSS</h2>
+    <ul>
+        <li>Born out of necessity: CSS was created to solve the problem of website design being limited by HTML. The idea was to separate content and design, making web pages easier to develop and maintain.</li>
+        <li>Separating design from content: With CSS, developers can change the appearance of elements without changing the HTML itself. For example, they can change the text color or font size without rewriting the HTML code.</li>
+        <li>Responsibility for appearance: If HTML is the skeleton of a web page, then CSS is the "clothing" that gives it style, colors, fonts, and layout. It makes websites attractive and user-friendly.</li>
+    </ul>
+</section>
+<hr>
+ </body>
+</html>
